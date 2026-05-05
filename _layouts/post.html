@@ -2,23 +2,34 @@
 layout: default
 ---
 <style>
-  /* Diseño limpio y centrado, sin barra lateral */
+  /* Diseño con barra lateral para artículos relacionados */
   .article-layout { 
     display: flex; 
-    justify-content: center; /* Centramos el contenido */
+    gap: 50px; 
     margin-top: 40px; 
     width: 100%;
+    align-items: flex-start;
   }
   
   .article-main { 
-    width: 100%; 
-    max-width: 850px; /* Ancho ideal para lectura (aprox 70-80 caracteres por línea) */
+    flex: 3; 
+    min-width: 0; 
+    max-width: 800px; 
+  }
+
+  /* La barra lateral pegajosa (Sticky) */
+  .ad-sidebar { 
+    flex: 1; 
+    min-width: 300px; 
+    position: sticky; 
+    top: 100px; 
+    height: fit-content; 
   }
   
   .hero-img { 
     width: 100%; 
     height: auto; 
-    max-height: 500px; 
+    max-height: 450px; 
     object-fit: cover; 
     border-radius: var(--radius); 
     margin-bottom: 40px; 
@@ -31,6 +42,17 @@ layout: default
   .content-body ul { margin-bottom: 30px; padding-left: 25px; color: var(--text2); font-size: 19px; line-height: 1.8; }
   .content-body li { margin-bottom: 12px; }
   .content-body strong { color: var(--text); }
+
+  /* Lista de enlaces de la barra lateral */
+  .sidebar-list { list-style: none; padding: 0; margin: 0; }
+  .sidebar-list li { margin-bottom: 15px; }
+  .sidebar-list a { color: var(--text2); font-size: 14px; font-weight: 500; transition: 0.2s; display: block; line-height: 1.5; }
+  .sidebar-list a:hover { color: var(--accent2); transform: translateX(5px); }
+  
+  @media (max-width: 992px) {
+    .article-layout { flex-direction: column; }
+    .ad-sidebar { position: static; width: 100%; margin-top: 30px; }
+  }
 </style>
 
 <div class="container">
@@ -72,13 +94,47 @@ layout: default
         </div>
       </div>
 
-      <!-- STRICT FINANCIAL DISCLAIMER -->
+     <!-- STRICT FINANCIAL DISCLAIMER -->
       <div style="margin-top: 40px; padding: 25px; background: #fffbeb; border: 1px solid #fef3c7; border-radius: var(--radius); font-size: 14px; color: #92400e; line-height: 1.6;">
         <strong style="display: block; margin-bottom: 8px; font-size: 15px;">Disclaimer:</strong> 
         The content provided on FinanceWorld is for informational and educational purposes only and does not constitute financial, investment, or legal advice. Financial markets involve significant risk. Always conduct your own due diligence and consult with a certified financial advisor before making any investment decisions.
       </div>
 
-    </div>
+    </div> <!-- FIN DEL CONTENIDO PRINCIPAL (article-main) -->
 
-  </div>
-</div>
+    <!-- ============================================== -->
+    <!-- NUEVA BARRA LATERAL: REPORTES Y ADSENSE        -->
+    <!-- ============================================== -->
+    <aside class="ad-sidebar">
+      
+      <!-- CAJA 1: ARTÍCULOS DESTACADOS (Dinámica) -->
+      <div style="padding: 25px; background: var(--bg2); border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 12px rgba(0,0,0,0.03); margin-bottom: 30px;">
+        <h4 style="color: var(--text); margin-bottom: 15px; font-size: 13px; text-transform: uppercase; font-weight: 800; letter-spacing: 1px; border-bottom: 2px solid var(--accent); padding-bottom: 12px;">
+          2026 Trend Reports
+        </h4>
+        
+        <ul class="sidebar-list">
+          <!-- Bucle Jekyll: Coge los 4 últimos posts -->
+          {% for post in site.posts limit:4 %}
+            <li>
+              <a href="{{ post.url | relative_url }}">
+                <span style="color: var(--accent); margin-right: 5px; font-weight: 800;">•</span> 
+                {{ post.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <!-- CAJA 2: ESPACIO PARA ADSENSE -->
+      <div style="padding: 20px; background: var(--bg); border-radius: var(--radius); border: 1px dashed var(--border);">
+        <h4 style="font-size: 11px; text-transform: uppercase; color: var(--text3); margin-bottom: 10px; text-align: center; letter-spacing: 1px;">Advertisement</h4>
+        <div style="width: 100%; height: 250px; background: rgba(0,0,0,0.02); display: flex; align-items: center; justify-content: center; color: var(--text3); font-family: monospace; font-size: 12px; border-radius: 8px;">
+          AD-SPACE
+        </div>
+      </div>
+
+    </aside>
+
+  </div> <!-- FIN DE ARTICLE-LAYOUT -->
+</div> <!-- FIN DE CONTAINER -->
