@@ -1,3 +1,5 @@
 title: "FinanceWorld"
 description: "Global Financial Insights and Market Intelligence for 2026."
+baseurl: "/FinanceWorld" # ESTA ES LA LÍNEA CLAVE. Debe coincidir exacto con el nombre del repo
+url: "https://Frixx55.github.io" 
 permalink: /:title/
