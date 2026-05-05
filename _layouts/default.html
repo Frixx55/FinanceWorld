@@ -75,9 +75,8 @@
     <a href="{{ '/' | relative_url }}" class="logo">Finance<span>World</span></a>
     <nav>
       <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="#">Markets</a>
-      <a href="#">Investing</a>
-      <a href="#">Technology</a>
+      <a href="{{ '/about/' | relative_url }}">About Us</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
     </nav>
   </div>
 </header>
@@ -85,13 +84,12 @@
 {{ content }}
 
 <footer>
-  <div class="container footer-content" style="padding-bottom: 0;">
-    <div class="logo" style="color: white; margin-bottom: 10px;">Finance<span style="color: var(--accent2);">World</span></div>
-    <p style="color: #94a3b8; font-size: 14px; max-width: 500px; margin: 0 auto;">Global financial insights and institutional market intelligence for the modern investor.</p>
-    <div class="footer-links">
-      <a href="#">About Us</a>
-      <a href="#">Privacy Policy</a>
-      <a href="#">Terms of Service</a>
+  <div class="footer-links">
+      <a href="{{ '/about/' | relative_url }}">About Us</a>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
+      <a href="{{ '/cookies/' | relative_url }}">Cookie Notice</a>
+      <a href="{{ '/terms/' | relative_url }}">Terms of Service</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
     </div>
     <p style="color: #64748b; font-size: 13px; border-top: 1px solid #334155; padding-top: 20px; margin-top: 20px;">&copy; 2026 FinanceWorld. All rights reserved.</p>
   </div>
