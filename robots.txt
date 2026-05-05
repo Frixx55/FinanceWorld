@@ -1,0 +1,4 @@
+User-agent: Frixx55
+Allow: /
+
+Sitemap: https://frixx55.github.io/FinanceWorld/sitemap.xml
