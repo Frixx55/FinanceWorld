@@ -1,6 +1,6 @@
 title: "TheMacroEdge"
 description: "Global Financial Insights and Market Intelligence for 2026."
-baseurl: "/TheMacroEdge" # ESTA ES LA LÍNEA CLAVE. Debe coincidir exacto con el nombre del repo
+baseurl: "" # ESTA ES LA LÍNEA CLAVE. Debe coincidir exacto con el nombre del repo
 url: "https://themacroedge.online"
 permalink: /:title/
 
