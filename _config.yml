@@ -7,3 +7,5 @@ permalink: /:title/
 url: "https://tu-usuario.github.io" # Cambia 'tu-usuario' por tu nombre real de GitHub
 plugins:
   - jekyll-sitemap
+
+google_adsense: "ca-pub-9934444305904754"
