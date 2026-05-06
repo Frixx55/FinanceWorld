@@ -8,7 +8,7 @@ permalink: /cookies/
   <h1 style="font-family: var(--font-display); font-size: 48px; margin-bottom: 10px; color: var(--text);">Cookie Notice</h1>
   <p style="color: var(--text3); margin-bottom: 40px;">Last updated: May 2026</p>
 
-  <p style="color: var(--text2); line-height: 1.8; font-size: 18px;">In compliance with global data protection regulations, <strong>FinanceWorld</strong> utilizes cookies and similar tracking technologies to enhance your institutional intelligence experience.</p>
+  <p style="color: var(--text2); line-height: 1.8; font-size: 18px;">In compliance with global data protection regulations, <strong>The Macro Edge</strong> utilizes cookies and similar tracking technologies to enhance your institutional intelligence experience.</p>
 
   <h3 style="color: var(--accent); margin-top: 30px; margin-bottom: 15px;">How we use them:</h3>
   <ul style="color: var(--text2); line-height: 1.8; font-size: 18px; padding-left: 20px;">
