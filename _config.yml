@@ -1,7 +1,7 @@
 title: "TheMacroEdge"
 description: "Global Financial Insights and Market Intelligence for 2026."
-baseurl: "" # ESTA ES LA LÍNEA CLAVE. Debe coincidir exacto con el nombre del repo
 url: "https://themacroedge.online"
+baseurl: ""
 permalink: /:title/
 
 url: "https://tu-usuario.github.io" # Cambia 'tu-usuario' por tu nombre real de GitHub
