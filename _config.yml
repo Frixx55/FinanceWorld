@@ -4,7 +4,6 @@ url: "https://themacroedge.online"
 baseurl: ""
 permalink: /:title/
 
-url: "https://tu-usuario.github.io" # Cambia 'tu-usuario' por tu nombre real de GitHub
 plugins:
   - jekyll-sitemap
 
