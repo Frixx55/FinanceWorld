@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fondo redondeado oscuro institucional -->
+  <rect width="100" height="100" rx="18" fill="#0f172a"/>
+  
+  <!-- Parte izquierda de la M (Blanca) -->
+  <line x1="25" y1="75" x2="25" y2="35" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- Gráfico central rompiendo al alza (Naranja/Acento) -->
+  <polyline points="25,35 50,60 75,25" fill="none" stroke="#f97316" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Parte derecha de la M (Blanca) -->
+  <line x1="75" y1="25" x2="75" y2="65" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  
+  <!-- Flecha sutil en el pico superior derecho -->
+  <polyline points="55,25 75,25 75,45" fill="none" stroke="#f97316" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
