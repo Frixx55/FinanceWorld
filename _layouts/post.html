@@ -52,6 +52,12 @@ layout: default
   .sidebar-list li { margin-bottom: 15px; }
   .sidebar-list a { color: var(--text2); font-size: 14px; font-weight: 500; transition: 0.2s; display: block; line-height: 1.5; }
   .sidebar-list a:hover { color: var(--accent2); transform: translateX(5px); }
+
+.article-main a[href="{{ '/' | relative_url }}"]:hover {
+    color: var(--accent);
+    border-bottom: 1px solid var(--accent);
+    transform: translateX(-4px);
+  }
   
   @media (max-width: 992px) {
     .article-layout { flex-direction: column; }
