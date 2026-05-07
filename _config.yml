@@ -1,10 +1,11 @@
-title: "TheMacroEdge"
+title: "The Macro Edge"
 description: "Global Financial Insights and Market Intelligence for 2026."
 url: "https://themacroedge.online"
 baseurl: ""
-permalink: /:title/
+permalink: /:categories/:title/
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 google_adsense: "ca-pub-9934444305904754"
