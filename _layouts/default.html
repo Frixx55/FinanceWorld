@@ -85,6 +85,15 @@
     -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid rgba(0,0,0,0.05);
   }
+    /* Cambia el color cuando el usuario selecciona/subraya texto */
+  ::selection {
+    background: #0f172a; /* El azul oscuro de tu marca */
+    color: #ffffff;      /* Texto en blanco para que se lea bien */
+  }
+  ::-moz-selection {    /* Lo mismo pero específico para Firefox */
+    background: #0f172a;
+    color: #ffffff;
+  }
 </style>
 </head>
 <body>
