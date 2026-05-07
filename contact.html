@@ -7,30 +7,32 @@ permalink: /contact/
 <div class="container" style="max-width: 1000px; padding-top: 50px;">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: start;">
     
-    <!-- Info Izquierda -->
     <div>
-      <h1 style="font-family: var(--font-display); font-size: 52px; margin-bottom: 20px; color: var(--text);">Contact Us</h1>
-      <p style="color: var(--text2); font-size: 18px; margin-bottom: 40px; line-height: 1.8;">Reach out to our global editorial team during this 2026 market expansion. We welcome inquiries from institutional investors, press, and partners.</p>
-      
-
+      <h1 style="font-family: var(--font-display); font-size: 52px; margin-bottom: 20px; color: var(--text);">Editorial Excellence & Verified Insight</h1>
+      <p style="color: var(--text2); font-size: 18px; margin-bottom: 40px; line-height: 1.8;">Our intelligence reports are curated and verified by a global team of specialists. We operate from the world's major financial hubs—Barcelona, London, and San Francisco—utilizing real-time data to provide sovereign wealth and institutional-grade alpha.</p>
     </div>
 
-    <!-- Formulario Derecha -->
     <div style="background: var(--bg2); padding: 40px; border-radius: var(--radius); border: 1px solid var(--border);">
-      <!-- Usamos un formulario visual (HTML puro) -->
-      <form onsubmit="event.preventDefault(); alert('Transmission Secure! Message sent to The Macro Edge HQ.');">
+      
+      <form action="https://formsubmit.co/sergipd803@gmail.com" method="POST">
+        
+        <input type="hidden" name="_captcha" value="false">
+
         <div style="margin-bottom: 20px;">
           <label style="display: block; font-weight: 600; font-size: 14px; margin-bottom: 8px; color: var(--text);">Full Name</label>
-          <input type="text" required placeholder="John Doe" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none;">
+          <input type="text" name="name" required placeholder="John Doe" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none;">
         </div>
+
         <div style="margin-bottom: 20px;">
           <label style="display: block; font-weight: 600; font-size: 14px; margin-bottom: 8px; color: var(--text);">Work Email</label>
-          <input type="email" required placeholder="name@company.com" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none;">
+          <input type="email" name="email" required placeholder="name@company.com" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none;">
         </div>
+
         <div style="margin-bottom: 25px;">
           <label style="display: block; font-weight: 600; font-size: 14px; margin-bottom: 8px; color: var(--text);">Message Content</label>
-          <textarea rows="5" required placeholder="How can we assist you?" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none; resize: vertical;"></textarea>
+          <textarea name="message" rows="5" required placeholder="How can we assist you?" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none; resize: vertical;"></textarea>
         </div>
+
         <button type="submit" style="width: 100%; padding: 18px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: 0.3s;">Send Message &rarr;</button>
       </form>
     </div>
