@@ -9,6 +9,11 @@ layout: default
   <div class="articles-grid">
     {% for post in site.posts %}
     <a href="{{ post.url | relative_url }}" class="article-card">
+      
+      {% if forloop.first %}
+        <span class="latest-badge">New / Latest</span>
+      {% endif %}
+
       <img src="{{ post.image }}" alt="{{ post.title }}">
       <div class="article-card-body">
         <span class="tag">{{ post.category }}</span>
