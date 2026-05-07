@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sovereign Debt Crisis of 2026: Why Central Banks Are Quietly Accumulating Gold"
-category: "MARKETS"
+category: "Markets"
 author: "Marcus Thorne"
 date: 2026-05-07 10:00:00 +0200
 image: "https://images.unsplash.com/photo-1610552050890-fe99536c2615?q=80&w=1200&auto=format&fit=crop"
