@@ -69,44 +69,48 @@ layout: default
   <div class="article-layout">
     
     <div class="article-main">
-<!-- BOTÓN VOLVER AL INICIO -->
-      <div style="margin-bottom: 30px;">
+<div style="margin-bottom: 15px;">
         <a href="{{ '/' | relative_url }}" style="display: inline-flex; align-items: center; font-size: 14px; font-weight: 600; color: var(--text3); text-decoration: none; transition: 0.2s; border-bottom: 1px solid transparent;">
           <span style="margin-right: 8px;">←</span> Back to All Insights
         </a>
       </div>
-      
-      <!-- Categoría -->
+
+      <div style="font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text3); margin-bottom: 30px; display: flex; align-items: center; flex-wrap: wrap; gap: 8px; font-family: var(--font-main);">
+        <a href="{{ '/' | relative_url }}" style="color: var(--text2); text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='var(--accent2)'" onmouseout="this.style.color='var(--text2)'">Home</a> 
+        
+        <span>/</span> 
+        
+        {% if page.category %}
+          <a href="{{ '/' | append: page.category | downcase | append: '/' | relative_url }}" style="color: var(--text2); text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='var(--accent2)'" onmouseout="this.style.color='var(--text2)'">{{ page.category }}</a>
+          <span>/</span>
+        {% endif %}
+        
+        <span style="color: var(--accent2);">{{ page.title | truncatewords: 6 }}...</span>
+      </div>
       <div style="margin-bottom: 25px; text-align: center;">
         <span style="background: var(--bg2); color: var(--accent); border: 1px solid var(--border); padding: 6px 16px; border-radius: 20px; font-size: 13px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">{{ page.category }}</span>
       </div>
       
-      <!-- Título -->
       <h1 style="font-family: var(--font-display); font-size: 48px; line-height: 1.2; margin-bottom: 25px; color: var(--text); text-align: center;">{{ page.title }}</h1>
       
-      <!-- Meta info (Autor y Fecha) -->
       <p style="color: var(--text3); font-size: 15px; margin-bottom: 40px; text-align: center; font-weight: 500;">
         By <strong style="color: var(--text);">{{ page.author }}</strong> <span style="margin: 0 10px;">•</span> Published on {{ page.date | date: "%B %d, %Y" }}
       </p>
       
-     <!-- Imagen principal -->
-      {% if page.image %}
+     {% if page.image %}
       <img src="{{ page.image }}" class="hero-img" alt="{{ page.title }}">
       {% endif %}
       
-      <!-- ÍNDICE DE CONTENIDOS (AUTOMÁTICO) -->
       <div id="table-of-contents" style="background: var(--bg2); padding: 25px 30px; border-radius: var(--radius); border: 1px solid var(--border); margin-bottom: 40px; display: none; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
         <h4 style="margin-top: 0; margin-bottom: 15px; font-family: var(--font-display); font-size: 18px; color: var(--text); text-transform: uppercase; letter-spacing: 1px;">Table of Contents</h4>
         <ul id="toc-list" style="margin: 0; padding-left: 20px; list-style-type: decimal; color: var(--text2); font-weight: 600; line-height: 1.8; font-size: 16px;">
         </ul>
       </div>
 
-      <!-- Contenido del artículo -->
       <div class="content-body">
         {{ content }}
       </div>
 
-      <!-- SCRIPT PARA GENERAR EL ÍNDICE -->
       <script>
         document.addEventListener("DOMContentLoaded", function() {
           const content = document.querySelector('.content-body');
@@ -147,10 +151,8 @@ layout: default
           }
         });
       </script>
-      <!-- AUTHOR BOX (E-E-A-T) -->
       <div style="margin-top: 70px; padding: 40px; background: var(--bg2); border-radius: var(--radius); display: flex; gap: 25px; align-items: center; border: 1px solid var(--border);">
-       <!-- SILUETA AUTOMÁTICA -->
-        <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; border: 1px solid var(--border); flex-shrink: 0; background: #f1f5f9;">
+       <div style="width: 80px; height: 80px; border-radius: 50%; overflow: hidden; display: flex; align-items: center; justify-content: center; border: 1px solid var(--border); flex-shrink: 0; background: #f1f5f9;">
           <img src="https://www.gravatar.com/avatar/00000000000000000000000000000000?s=128&d=mp&f=y" alt="Author" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.7;">
         </div>
         <div>
@@ -184,27 +186,19 @@ layout: default
         </div>
       </div>
 
-     <!-- STRICT FINANCIAL DISCLAIMER -->
-      <div style="margin-top: 40px; padding: 25px; background: #fffbeb; border: 1px solid #fef3c7; border-radius: var(--radius); font-size: 14px; color: #92400e; line-height: 1.6;">
+     <div style="margin-top: 40px; padding: 25px; background: #fffbeb; border: 1px solid #fef3c7; border-radius: var(--radius); font-size: 14px; color: #92400e; line-height: 1.6;">
         <strong style="display: block; margin-bottom: 8px; font-size: 15px;">Disclaimer:</strong> 
         The content provided on The Macro Edge is for informational and educational purposes only and does not constitute financial, investment, or legal advice. Financial markets involve significant risk. Always conduct your own due diligence and consult with a certified financial advisor before making any investment decisions.
       </div>
 
-    </div> <!-- FIN DEL CONTENIDO PRINCIPAL (article-main) -->
-
-    <!-- ============================================== -->
-    <!-- BARRA LATERAL: REPORTES DESTACADOS             -->
-    <!-- ============================================== -->
-    <aside class="ad-sidebar">
+    </div> <aside class="ad-sidebar">
       
-      <!-- CAJA 1: ARTÍCULOS DESTACADOS (Dinámica) -->
       <div style="padding: 25px; background: var(--bg2); border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 12px rgba(0,0,0,0.03); margin-bottom: 30px;">
         <h4 style="color: var(--text); margin-bottom: 15px; font-size: 13px; text-transform: uppercase; font-weight: 800; letter-spacing: 1px; border-bottom: 2px solid var(--accent); padding-bottom: 12px;">
           2026 Trend Reports
         </h4>
         
         <ul class="sidebar-list">
-          <!-- Bucle Jekyll: Coge los 4 últimos posts -->
           {% for post in site.posts limit:4 %}
             <li>
               <a href="{{ post.url | relative_url }}">
@@ -218,5 +212,8 @@ layout: default
 
     </aside>
 
-  </div> <!-- FIN DE ARTICLE-LAYOUT -->
-</div> <!-- FIN DE CONTAINER -->
+  </div> </div> ```
+
+Guárdalo, espera un minuto a que Jekyll lo recompile en GitHub y abre cualquier artículo. Verás la ruta de navegación perfecta justo encima del título y la etiqueta de la categoría.
+
+Con esto listo, nos falta crear un artículo espectacular para la categoría que nos queda: **DeFi**. ¿Estás listo para que le demos voz a la analista **Elena Vargas** y creemos ese último reporte sobre el estado de las finanzas descentralizadas en 2026?
