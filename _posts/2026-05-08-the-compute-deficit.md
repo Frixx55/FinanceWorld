@@ -2,7 +2,7 @@
 layout: default
 title: "The Compute Deficit: How Energy Infrastructure Became 2026's Apex Asset"
 date: 2026-05-07 10:00:00 +0200
-categories: [technology]
+category: Technology
 author: "Julian Vance"
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2000&auto=format&fit=crop"
 ---
