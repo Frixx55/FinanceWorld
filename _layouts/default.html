@@ -71,6 +71,27 @@
       nav.mobile-open { display: flex !important; }
       nav a { width: 100%; text-align: center; padding: 15px 0; margin: 0; border-bottom: 1px solid var(--bg2); }
     }
+    /* Aseguramos que la tarjeta pueda contener elementos flotantes */
+  .article-card {
+    position: relative; 
+  }
+
+  /* Diseño de la etiqueta "NEW" */
+  .latest-badge {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: var(--accent2, #d97706);
+    color: #ffffff;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    z-index: 10;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
   </style>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9934444305904754"
      crossorigin="anonymous"></script>
