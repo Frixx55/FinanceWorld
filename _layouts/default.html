@@ -111,6 +111,18 @@
   .article-card:hover img {
     transform: scale(1.07);
   }
+    /* Efecto de aparición suave */
+  .article-card {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out !important;
+  }
+
+  /* Clase que se activa al hacer scroll */
+  .article-card.reveal {
+    opacity: 1;
+    transform: translateY(0);
+  }
 </style>
 </head>
 <body>
@@ -169,6 +181,21 @@
     localStorage.setItem('cookiesAccepted', 'true');
     document.getElementById('cookie-banner').style.display = 'none';
   }
+</script>
+  <script>
+  // Configuración del observador: se activa cuando el artículo asoma un 10%
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('reveal');
+      }
+    });
+  }, { threshold: 0.1 });
+
+  // Buscamos todos los artículos y empezamos a observarlos
+  document.querySelectorAll('.article-card').forEach(card => {
+    revealObserver.observe(card);
+  });
 </script>
 </body>
 </html>
