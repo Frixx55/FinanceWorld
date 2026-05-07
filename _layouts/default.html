@@ -94,6 +94,23 @@
     background: #0f172a;
     color: #ffffff;
   }
+    /* Contenedor de la imagen: evita que el zoom se salga de los bordes */
+  .article-card .article-image {
+    overflow: hidden;
+    border-radius: 12px 12px 0 0; /* Ajusta según tus bordes */
+  }
+
+  /* La imagen en sí: transición suave de 0.6 segundos */
+  .article-card img {
+    transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1) !important;
+    display: block;
+    width: 100%;
+  }
+
+  /* El efecto: al pasar el ratón por la tarjeta, la imagen crece un 7% */
+  .article-card:hover img {
+    transform: scale(1.07);
+  }
 </style>
 </head>
 <body>
