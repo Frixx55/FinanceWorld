@@ -7,5 +7,5 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
+  - jekyll-feed
 google_adsense: "ca-pub-9934444305904754"
