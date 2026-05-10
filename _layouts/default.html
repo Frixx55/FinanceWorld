@@ -51,6 +51,23 @@
     nav { display: flex; gap: 32px; margin-left: auto; }
     nav a { color: var(--text2); font-size: 14px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
     nav a:hover { color: var(--accent2); }
+    /* BOTÓN CONTACTO VIP */
+    .nav-contact-btn {
+      background-color: #d97706; 
+      color: #ffffff !important;
+      padding: 8px 20px;
+      border-radius: 6px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: background-color 0.3s ease, transform 0.2s ease;
+      margin-left: 15px;
+    }
+
+    .nav-contact-btn:hover {
+      background-color: #b45309; 
+      color: #ffffff !important;
+      transform: translateY(-2px); 
+    }
     
     /* MAIN CONTAINER */
     .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; padding-bottom: 60px; flex: 1; width: 100%;}
@@ -169,6 +186,7 @@
       <a href="{{ '/technology/' | relative_url }}" class="nav-link">Technology</a>
       <hr style="border: 0; border-top: 1px solid rgba(0,0,0,0.1); margin: 15px 20px;">
 <a href="/about/">ABOUT US</a>
+<a href="/contact/" class="nav-contact-btn">CONTACT</a>
     </nav>
     <div id="mobile-icon" onclick="toggleMobileMenu()">☰</div>
   </div>
