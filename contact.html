@@ -13,10 +13,12 @@ permalink: /contact/
 
     <div style="background: var(--bg2); padding: 40px; border-radius: var(--radius); border: 1px solid var(--border);">
       
-      <form action="https://formsubmit.co/fefb3b42870c35b50d9aa52c0ca01810" method="POST">
+      <form id="macro-contact-form">
         
-        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="access_key" value="c86e6ef1-2469-420c-948d-cb07a7d27480">
         
+        <input type="hidden" name="subject" value="Nueva Consulta Macro VIP">
+        <input type="hidden" name="from_name" value="The Macro Edge Terminal">
 
         <div style="margin-bottom: 20px;">
           <label style="display: block; font-weight: 600; font-size: 14px; margin-bottom: 8px; color: var(--text);">Full Name</label>
@@ -33,9 +35,57 @@ permalink: /contact/
           <textarea name="message" rows="5" required placeholder="How can we assist you?" style="width: 100%; padding: 15px; border: 1px solid var(--border); border-radius: 8px; font-family: var(--font-main); outline: none; resize: vertical;"></textarea>
         </div>
 
-        <button type="submit" style="width: 100%; padding: 18px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: 0.3s;">Send Message &rarr;</button>
+        <button type="submit" id="s-btn" style="width: 100%; padding: 18px; background: var(--accent); color: white; border: none; border-radius: 8px; font-weight: bold; font-size: 16px; cursor: pointer; transition: 0.3s;">Send Message &rarr;</button>
       </form>
-    </div>
 
+      <div id="thank-you-screen" style="display:none; text-align: center; padding: 20px 0;">
+        <div style="font-size: 50px; margin-bottom: 15px;">📊</div>
+        <h2 style="font-family: var(--font-display); font-size: 32px; color: var(--accent); margin-bottom: 10px;">Intelligence Received</h2>
+        <p style="color: var(--text3); margin-bottom: 25px; font-size: 16px;">The data has been transmitted securely. Our macro analysts will contact you shortly.</p>
+        <a href="/" style="display: inline-block; width: auto; padding: 12px 25px; background: var(--accent); color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">Return to Homepage</a>
+      </div>
+
+    </div>
   </div>
 </div>
+
+<script>
+  const contactForm = document.getElementById('macro-contact-form');
+  
+  if(contactForm) {
+    contactForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      const form = e.target;
+      const btn = document.getElementById('s-btn');
+      const thankYou = document.getElementById('thank-you-screen');
+      
+      btn.innerText = "Transmitting to Server...";
+      btn.style.opacity = "0.6";
+      btn.disabled = true;
+
+      const formData = new FormData(form);
+      const object = Object.fromEntries(formData);
+      const json = JSON.stringify(object);
+
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: json
+      })
+      .then(async (response) => {
+        if (response.status == 200) {
+          form.style.display = "none";
+          thankYou.style.display = "block";
+        } else {
+          btn.innerText = "Transmission Error";
+          btn.style.background = "#ef4444";
+        }
+      })
+      .catch(error => {
+        btn.innerText = "Connection Failed";
+        btn.disabled = false;
+      });
+    });
+  }
+</script>
