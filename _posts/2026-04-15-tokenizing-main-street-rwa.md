@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Tokenizing Main Street: How Blockchain is Democratizing the Billionaire's Playbook"
+date: 2026-04-15 10:00:00 +0200
 author: "Claire Hastings"
 category: "DeFi"
-image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg"
+excerpt: "Real estate and private equity are no longer exclusive to the ultra-wealthy. Explore how asset tokenization is opening the world's most lucrative markets to everyone."
 ---
 
 A few years ago, I sat in the polished oak boardroom of a boutique private equity firm in Manhattan. I was there as a junior reporter, listening to three managing directors discuss the acquisition of a massive commercial logistics center in Ohio. The price tag was roughly $85 million. They were projecting a highly stable, inflation-adjusted 11% annual yield, secured by ironclad tenant leases from Fortune 500 companies. 
