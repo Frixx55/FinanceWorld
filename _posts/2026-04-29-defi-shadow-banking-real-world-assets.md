@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "I Spent a Month Inside the 'New' DeFi, and It Doesn't Have a Zip Code"
+date: 2026-04-29 10:00:00 +0200
 author: "Sofia Reyes"
 category: "DeFi"
-image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg"
+excerpt: "The next wave of decentralized finance is leaving the tech hubs. Explore how borderless protocols are creating a global financial layer that operates beyond jurisdictions."
 ---
 
 My grandfather used to tell me that a good bank is like a good roof: you shouldn't even notice it's there until a storm hits. For decades, traditional banking felt like a necessary, immovable force of nature. You deposited your paycheck, accepted whatever miserable fraction of a percent they offered you in interest, and paid exorbitant fees the moment you needed to wire money across a border. 
