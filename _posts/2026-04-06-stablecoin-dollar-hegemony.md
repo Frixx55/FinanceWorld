@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "The Digital Dollar Paradox: Why Stablecoins Quietly Saved the Greenback"
+date: 2026-04-06 10:00:00 +0200
 author: "Ethan Caldwell"
 category: "Crypto"
-image: "https://images.pexels.com/photos/259209/pexels-photo-259209.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/259209/pexels-photo-259209.jpeg"
+excerpt: "While CBDCs dominate headlines, private stablecoins have become the strongest defense for US dollar hegemony in the digital age."
 ---
 
 I was sitting in a crowded café in Buenos Aires late last year, watching a local freelance designer pay for her lunch. She didn't hand the barista a stack of rapidly inflating Argentine pesos, nor did she pull out a physical hundred-dollar bill. She simply tapped her smartphone, scanned a QR code, and transferred exactly $8.50 in USDC directly to the café owner's digital wallet on the Polygon network. The transaction settled in three seconds, costing a fraction of a cent in network fees.
