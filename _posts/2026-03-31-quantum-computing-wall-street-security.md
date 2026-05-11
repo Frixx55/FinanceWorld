@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "The Q-Day Panic: Why Wall Street is Spending Billions to Rewrite its Cryptography"
+date: 2026-05-11 10:00:00 +0200
 author: "David Chen"
 category: "Technology"
-image: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
+excerpt: "Q-Day is no longer a theoretical threat. Discover why institutional finance is racing to deploy post-quantum encryption before classical systems crumble."
 ---
-
 I was at an exclusive cybersecurity summit in London last month, entirely populated by Chief Information Security Officers (CISOs) from the world’s most systemic tier-one banks. Normally, these events are incredibly dry affairs, filled with corporate jargon and PowerPoint presentations about phishing scams. But the atmosphere at the hotel bar afterward was completely different. It was deeply, palpably anxious. 
 
 They weren't worried about teenage hackers or standard ransomware groups. They were worried about physics. Specifically, they were quietly panicking over the sudden, accelerated stability of **Quantum Computing**.
