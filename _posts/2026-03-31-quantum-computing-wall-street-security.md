@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Q-Day Panic: Why Wall Street is Spending Billions to Rewrite its Cryptography"
-date: 2026-05-11 10:00:00 +0200
+date: 2026-03-31 10:00:00 +0200
 author: "David Chen"
 category: "Technology"
 image: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
