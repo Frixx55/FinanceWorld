@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Liquidity Reset: Why Institutional Capital is Abandoning Legacy Bonds for the 'Compute-Scarcity' Standard"
 date: 2026-05-10 09:00:00 +0200
-categories: [Markets]
+categories: "Markets"
 author: "Elena Vargas"
 image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
 excerpt: "If you're still relying on a 60/40 portfolio to protect wealth in 2026, you're actively burning money. Let's talk about the reality of the Sovereign Debt Wall and why smart capital is quietly moving to AI infrastructure and tokenized assets."
