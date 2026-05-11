@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "The Wall Street Assimilation: How Suits and Ties Civilized Bitcoin"
-author: "Marcus Thorne"
+date: 2026-04-21 10:00:00 +0200
+author: Marcus Thorne
 category: "Crypto"
-image: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg"
+excerpt: "Bitcoin has traded its cypherpunk leather jacket for a Wall Street suit. Discover how institutional adoption has matured the world's first cryptocurrency."
 ---
 
 I remember attending a massive cryptocurrency conference in Miami back in 2022. The atmosphere was a chaotic mix of frat party and religious revival. People were walking around in laser-eye t-shirts, aggressively shouting "Have Fun Staying Poor" at anyone who questioned the volatility of the asset class. It was loud, obnoxious, and deeply alienating to traditional finance.
