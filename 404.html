@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Redirecting...</title>
-    <script type="text/javascript">
-        // 1. Capturamos la dirección que Google intentó visitar
-        var currentPath = window.location.pathname;
-        
-        // 2. La guardamos en la memoria del navegador
-        sessionStorage.setItem('redirectURL', currentPath);
-        
-        // 3. Saltamos inmediatamente a la Home (index.html)
-        // La Home leerá esa memoria y cargará el artículo por ti
-        window.location.replace('/');
-    </script>
-</head>
-<body>
-    <p>Redirecting to report...</p>
-</body>
-</html>
+---
+layout: default
+title: "404 - Not Found"
+permalink: /404.html
+---
+
+<div class="container" style="text-align: center; padding: 120px 20px; max-width: 600px; margin: 0 auto; flex: 1;">
+  <div style="font-size: 80px; margin-bottom: 10px;">📡</div>
+  <h1 style="font-family: var(--font-display); font-size: 64px; color: var(--accent); margin-bottom: 10px; line-height: 1;">404</h1>
+  <h2 style="font-size: 28px; color: var(--text); margin-bottom: 20px;">Signal Lost</h2>
+  <p style="color: var(--text3); font-size: 16px; margin-bottom: 40px; line-height: 1.6;">The intelligence report or data point you are looking for has been moved, classified, or does not exist in our current database.</p>
+  
+  <a href="{{ '/' | relative_url }}" style="display: inline-block; background-color: var(--accent2); color: #ffffff; padding: 12px 30px; border-radius: 6px; font-weight: 700; text-decoration: none; transition: 0.3s; text-transform: uppercase; letter-spacing: 0.5px;">&larr; Return to Terminal</a>
+</div>
