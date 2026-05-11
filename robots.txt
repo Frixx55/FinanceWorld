@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frixx55.github.io/FinanceWorld/sitemap.xml
+Sitemap: https://themacroedge.online/sitemap.xml
