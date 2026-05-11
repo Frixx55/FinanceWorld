@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "The Great Dividend Trap: Why Yield Chasing is Destroying Your After-Tax Returns"
+date: 2026-04-24 10:00:00 +0200
 author: "Thomas Bergmann"
 category: "Investing"
-image: "https://images.pexels.com/photos/730564/pexels-photo-730564.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/730564/pexels-photo-730564.jpeg"
+excerpt: "High dividends often mask underlying capital erosion. Learn why focusing on yield alone can be a tax-inefficient disaster for your long-term portfolio."
 ---
 
 I had a fascinating conversation last week with a client who was practically beaming with pride. He had spent the last two years aggressively restructuring his portfolio to generate a consistent 6% dividend yield. "I’m making money while I sleep," he told me, showing off the quarterly payout notifications on his phone. 
