@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "The 8% Mortgage Reality: Why the 2026 Housing Market is Frozen (Not Crashing)"
+date: 2026-05-04 10:00:00 +0200
 author: "Elena Vargas"
 category: "Markets"
-image: "https://images.pexels.com/photos/3288102/pexels-photo-3288102.png?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/3288102/pexels-photo-3288102.png"
+excerpt: "High interest rates haven't caused a price collapse, but a total liquidity freeze. Understand the 'Golden Handcuff' effect and the new supply-demand paradox of 2026."
 ---
 
 I had a coffee last Thursday with a buddy who works as a senior mortgage broker in Austin, Texas. He looked absolutely exhausted. When I asked him how the spring buying season was shaping up, he just laughed and slid his phone across the table. It showed a chart of local housing inventory. It wasn’t a curve; it was a flatline. 
