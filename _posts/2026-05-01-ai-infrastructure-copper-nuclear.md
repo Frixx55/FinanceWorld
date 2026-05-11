@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "The AI Illusion: Why Copper and Concrete Are Outperforming Silicon in 2026"
+date: 2026-05-01 10:00:00 +0200
 author: "Marcus Thorne"
 category: "Markets"
-image: "https://images.pexels.com/photos/257636/pexels-photo-257636.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/257636/pexels-photo-257636.jpeg"
+excerpt: "Artificial Intelligence isn't just about code—it's about the physical grid. Discover why industrial commodities are the true backbone of the 2026 tech boom."
 ---
 
 Last Tuesday, I drove out to a nondescript industrial park just outside of Phoenix. From the highway, it looked like a standard logistics hub—boring, flat, and grey. But walking up to the perimeter fence, you couldn't hear the usual sounds of delivery trucks. Instead, there was a persistent, low-frequency hum vibrating through the pavement. It sounded like a massive jet engine that refused to take off. 
