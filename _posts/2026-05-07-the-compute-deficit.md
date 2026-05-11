@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Compute Deficit: How Energy Infrastructure Became 2026's Apex Asset"
-date: 2026-05-07 10:00:00 +0200
-categories: "Technology"
+category: "Technology"
 author: "Julian Vance"
+date: 2026-05-10 10:00:00 +0200
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
 excerpt: "If you are still trying to play the artificial intelligence boom by exclusively buying enterprise software companies, you are fighting the last war. We explain why energy is the new apex asset."
 ---
