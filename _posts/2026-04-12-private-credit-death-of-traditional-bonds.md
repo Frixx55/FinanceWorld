@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Private Credit is the New Savings Account: Why Wall Street Abandoned Traditional Bonds"
+date: 2026-04-12 10:00:00 +0200
 author: "Liam Sterling"
 category: "Investing"
-image: "https://images.pexels.com/photos/5412270/pexels-photo-5412270.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/5412270/pexels-photo-5412270.jpeg"
+excerpt: "The traditional 60/40 portfolio is dead. Learn how private credit markets are absorbing retail and institutional savings in a high-rate environment."
 ---
 
 I had lunch recently with a veteran fixed-income portfolio manager who had just done the unthinkable. After twenty-two years at one of the world's most prestigious legacy investment banks, managing billions in sovereign debt and corporate bonds, he unceremoniously resigned. He didn't retire to a golf course in Florida. He jumped ship to launch a boutique **private credit fund**. 
