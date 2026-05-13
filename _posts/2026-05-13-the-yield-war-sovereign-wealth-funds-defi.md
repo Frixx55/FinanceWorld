@@ -4,7 +4,7 @@ title: "The Yield War: Why Sovereign Wealth Funds are the New 'Shadow' Liquidity
 date: 2026-05-13 10:00:00 +0200
 category: "DeFi"
 author: "Claire Hastings"
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
+image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa"
 excerpt: "The romantic era of DeFi 'by the people' is dead. In 2026, the biggest whales in the pool are nation-states, and they are using decentralized protocols to fight a silent war for liquidity."
 ---
 
