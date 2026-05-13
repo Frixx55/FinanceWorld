@@ -2,7 +2,7 @@
 layout: post
 title: "The Eye in the Sky: How Hedge Funds Are Trading on Satellite Imagery Before the Market Opens"
 date: 2026-03-28 10:00:00 +0200
-author: "Julian Vance"
+author: "The Macro Edge Editorial Team"
 category: "Technology"
 image: "https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg"
 excerpt: "The true alpha is no longer found in spreadsheets, but harvested from space. Discover how satellite imagery is changing institutional trading in 2026."
