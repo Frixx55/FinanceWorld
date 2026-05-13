@@ -2,7 +2,7 @@
 layout: post
 title: "Private Credit is the New Savings Account: Why Wall Street Abandoned Traditional Bonds"
 date: 2026-04-12 10:00:00 +0200
-author: "Liam Sterling"
+author: "The Macro Edge Editorial Team"
 category: "Investing"
 image: "https://images.pexels.com/photos/5412270/pexels-photo-5412270.jpeg"
 excerpt: "The traditional 60/40 portfolio is dead. Learn how private credit markets are absorbing retail and institutional savings in a high-rate environment."
