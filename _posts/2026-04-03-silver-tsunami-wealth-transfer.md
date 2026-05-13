@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The $80 Trillion Silver Tsunami: How the Generational Wealth Transfer is Rewiring the Market"
-author: "Claire Hastings"
+author: "The Macro Edge Editorial Team"
 category: "Investing"
 image: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1200"
 ---
