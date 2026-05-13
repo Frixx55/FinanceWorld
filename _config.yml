@@ -2,7 +2,7 @@ title: "The Macro Edge"
 description: "Global Financial Insights and Market Intelligence for 2026."
 url: "https://themacroedge.online"
 baseurl: ""
-permalink: /:categories/:title/
+permalink: /:title.html
 
 plugins:
   - jekyll-sitemap
