@@ -2,7 +2,7 @@
 layout: post
 title: "The Quarter-Second Advantage: How Autonomous Agents Replaced the Junior Analyst"
 date: 2026-04-09 10:00:00 +0200
-author: "Priya Desai"
+author: "The Macro Edge Editorial Team"
 category: "Technology"
 image: "https://images.pexels.com/photos/6771107/pexels-photo-6771107.jpeg"
 excerpt: "As we move through 2026, the traditional junior analyst role is vanishing. Discover how autonomous AI agents are dominating the financial decision-making loop."
