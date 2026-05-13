@@ -12,7 +12,7 @@ excerpt: "The romantic era of DeFi 'by the people' is dead. In 2026, the biggest
 
 I was sitting in a windowless office in Barcelona last Thursday, breathing in that specific mix of ozone from server racks and expensive espresso. Across from me was a man whose job title officially says "Treasury Advisor," but whose actual job is moving billions of dollars for a nation-state that prefers to remain invisible. He wasn’t looking at a Bloomberg terminal. He was staring at a **decentralized lending protocol dashboard** on an encrypted tablet. 
 
-"Claire," he said, without looking up, "everyone is worried about who wins the next election. I’m worried about who controls the **Total Value Locked (TVL)** in the next three hours. If we lose the liquidity peg on this stablecoin, my country can’t pay its energy bills by Monday."
+I’m worried about who controls the **Total Value Locked (TVL)** in the next three hours. If we lose the liquidity peg on this stablecoin, my country can’t pay its energy bills by Monday."
 
 Welcome to the grim reality of **May 2026**. 
 
