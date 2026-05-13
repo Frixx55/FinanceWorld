@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Great Liquidity Reset: Why Institutional Capital is Abandoning Legacy Bonds for the 'Compute-Scarcity' Standard"
-author: "Elena Vargas"
+author: "The Macro Edge Editorial Team"
 category: "Markets"
 image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
 ---
