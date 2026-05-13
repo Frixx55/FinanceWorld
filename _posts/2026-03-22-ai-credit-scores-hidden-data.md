@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Invisible Credit Score: How AI is Secretly Approving (or Denying) Your Next Loan"
-author: "Marcus Thorne"
+author: "The Macro Edge Editorial Team"
 category: "Investing"
 image: "https://images.pexels.com/photos/6693655/pexels-photo-6693655.jpeg?auto=compress&cs=tinysrgb&w=1200"
 ---
