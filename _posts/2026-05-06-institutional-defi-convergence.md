@@ -104,4 +104,4 @@ We are no longer \"early.\" We are in the middle of a systemic rewrite of how we
 
 ***
 
-**Author’s Note:** *This analysis was compiled using on-chain liquidity data from the first quarter of 2026 and internal reports from 'The Macro Edge' infrastructure working group. For more deep dives into the plumbing of the digital economy, subscribe to our weekly briefing.*
+
