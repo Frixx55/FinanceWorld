@@ -3,7 +3,7 @@ layout: post
 title: "The Yield War: Why Sovereign Wealth Funds are the New 'Shadow' Liquidity Providers in DeFi"
 date: 2026-05-13 10:00:00 +0200
 category: "DeFi"
-author: "Claire Hastings"
+author: "The Macro Edge Editorial Team"
 image: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
 feature-img: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
 thumbnail: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
