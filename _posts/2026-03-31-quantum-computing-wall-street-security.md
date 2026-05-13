@@ -2,7 +2,7 @@
 layout: post
 title: "The Q-Day Panic: Why Wall Street is Spending Billions to Rewrite its Cryptography"
 date: 2026-03-31 10:00:00 +0200
-author: "David Chen"
+author: "The Macro Edge Editorial Team"
 category: "Technology"
 image: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
 excerpt: "Q-Day is no longer a theoretical threat. Discover why institutional finance is racing to deploy post-quantum encryption before classical systems crumble."
