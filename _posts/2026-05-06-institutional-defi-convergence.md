@@ -102,6 +102,4 @@ The institutionalization of DeFi is a **hostile takeover of the rails** by the v
 
 We are no longer \"early.\" We are in the middle of a systemic rewrite of how wealth is stored, transferred, and defended. The volatility we see is not a bug; it is the friction of a new world being born. **The Convergence is here. Are you positioned for the impact, or will you be part of the liquidation?**
 
-***
-
 
