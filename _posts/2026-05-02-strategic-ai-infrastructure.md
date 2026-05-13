@@ -2,7 +2,7 @@
 layout: post
 title: "Compute is the New Oil: Why Strategic AI Infrastructure is the Only Tech Trade Left in 2026"
 category: "Technology"
-author: "Julian Vance"
+author: "The Macro Edge Editorial Team"
 date: 2026-05-02 08:30:00 +0200
 image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop"
 ---
