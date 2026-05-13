@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The End of 'Made in China': Why Mexico is the Hottest Emerging Market of 2026"
-author: "Elena Vargas"
+author: "The Macro Edge Editorial Team"
 category: "Markets"
 image: "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1200"
 ---
