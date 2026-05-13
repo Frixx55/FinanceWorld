@@ -2,7 +2,7 @@
 layout: post
 title: "The AI Illusion: Why Copper and Concrete Are Outperforming Silicon in 2026"
 date: 2026-05-01 10:00:00 +0200
-author: "Marcus Thorne"
+author: "The Macro Edge Editorial Team"
 category: "Markets"
 image: "https://images.pexels.com/photos/257636/pexels-photo-257636.jpeg"
 excerpt: "Artificial Intelligence isn't just about code—it's about the physical grid. Discover why industrial commodities are the true backbone of the 2026 tech boom."
