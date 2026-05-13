@@ -2,7 +2,7 @@
 layout: post
 title: "The Digital Dollar Paradox: Why Stablecoins Quietly Saved the Greenback"
 date: 2026-04-06 10:00:00 +0200
-author: "Ethan Caldwell"
+author: "The Macro Edge Editorial Team"
 category: "Crypto"
 image: "https://images.pexels.com/photos/259209/pexels-photo-259209.jpeg"
 excerpt: "While CBDCs dominate headlines, private stablecoins have become the strongest defense for US dollar hegemony in the digital age."
