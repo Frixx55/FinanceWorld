@@ -2,7 +2,7 @@
 layout: post
 title: "I Spent a Month Inside the 'New' DeFi, and It Doesn't Have a Zip Code"
 date: 2026-04-29 10:00:00 +0200
-author: "Sofia Reyes"
+author: "The Macro Edge Editorial Team"
 category: "DeFi"
 image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg"
 excerpt: "The next wave of decentralized finance is leaving the tech hubs. Explore how borderless protocols are creating a global financial layer that operates beyond jurisdictions."
