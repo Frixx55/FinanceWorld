@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Convergence: How Institutional Liquidity is Reshaping DeFi Protocols in 2026"
 category: "DeFi"
-author: "Elena Vargas"
+author: "The Macro Edge Editorial Team"
 date: 2026-05-06 09:00:00 +0200
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop"
 ---
