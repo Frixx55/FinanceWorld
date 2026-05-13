@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Silent Wealth Killer of 2026: Auditing Your 'AI Subscription' Fatigue"
-author: "David Chen"
+author: "The Macro Edge Editorial Team"
 category: "Investing"
 image: "https://images.pexels.com/photos/4386431/pexels-photo-4386431.jpeg?auto=compress&cs=tinysrgb&w=1200"
 ---
