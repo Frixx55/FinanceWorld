@@ -2,7 +2,7 @@
 layout: post
 title: "The Wall Street Assimilation: How Suits and Ties Civilized Bitcoin"
 date: 2026-04-21 10:00:00 +0200
-author: Marcus Thorne
+author: "The Macro Edge Editorial Team"
 category: "Crypto"
 image: "https://images.pexels.com/photos/844124/pexels-photo-844124.jpeg"
 excerpt: "Bitcoin has traded its cypherpunk leather jacket for a Wall Street suit. Discover how institutional adoption has matured the world's first cryptocurrency."
