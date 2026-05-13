@@ -100,6 +100,3 @@ What did I learn during my thirty days in the digital wilderness?
 
 The transition isn't easy, and it requires a new type of financial literacy. You have to learn to be your own bank, which comes with its own responsibilities. But the rewards—both in terms of yield and personal freedom—are far too great to ignore. We are watching the birth of a unified, global ledger of everything. The zip codes are falling away, leaving only the code behind. It's time to adapt or be left behind in the marble lobbies of the past.
 
-***
-
-*The Macro Edge Editorial Team continues to track the evolution of the RWA sector and decentralized credit markets. For weekly deep dives into specific protocols and yield strategies, join our 'Premium Edge' member community.*
