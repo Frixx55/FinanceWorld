@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why You Will Probably Pay Your Neighbors for 5G Internet by 2027"
-author: "Sofia Reyes"
+author: "The Macro Edge Editorial Team"
 category: "Technology"
 image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
 ---
