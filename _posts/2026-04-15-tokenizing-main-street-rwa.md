@@ -2,7 +2,7 @@
 layout: post
 title: "Tokenizing Main Street: How Blockchain is Democratizing the Billionaire's Playbook"
 date: 2026-04-15 10:00:00 +0200
-author: "Claire Hastings"
+author: "The Macro Edge Editorial Team"
 category: "DeFi"
 image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg"
 excerpt: "Real estate and private equity are no longer exclusive to the ultra-wealthy. Explore how asset tokenization is opening the world's most lucrative markets to everyone."
