@@ -8,6 +8,8 @@ image: "https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg"
 feature-img: "https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg"
 thumbnail: "https://images.pexels.com/photos/842711/pexels-photo-842711.jpeg"
 excerpt: "The true alpha is no longer found in spreadsheets, but harvested from space. Discover how satellite imagery is changing institutional trading in 2026."
+redirect_from:
+  - /alternative-data-satellite-trading-edge/
 ---
 
 I was having drinks late last month with a lead quantitative analyst at a prominent multi-strategy hedge fund in Manhattan. When I asked him what his team thought of an upcoming retail giant's quarterly earnings call, he didn't pull up a spreadsheet, a Bloomberg terminal, or a historical chart. Instead, he pulled out his tablet and showed me a high-resolution, infrared satellite image of a massive parking lot in Ohio. 
