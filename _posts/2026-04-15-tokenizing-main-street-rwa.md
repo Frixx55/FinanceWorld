@@ -6,6 +6,8 @@ author: "The Macro Edge Editorial Team"
 category: "DeFi"
 image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg"
 excerpt: "Real estate and private equity are no longer exclusive to the ultra-wealthy. Explore how asset tokenization is opening the world's most lucrative markets to everyone."
+redirect_from:
+  - /tokenizing-main-street-rwa/
 ---
 
 The global financial landscape of **April 2026** is marked by a profound structural realignment. For nearly a century, the world’s most lucrative asset classes—commercial real estate, private equity, and high-yield corporate debt—were protected by a "velvet rope" of regulatory and capital barriers. Access was restricted to institutional giants and accredited investors with a net worth exceeding five million dollars. The middle class was systematically excluded, left to manage the volatility of public equities or accept the negative real returns of traditional savings accounts.
