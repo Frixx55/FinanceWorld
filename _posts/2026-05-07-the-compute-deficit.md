@@ -8,6 +8,8 @@ image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
 feature-img: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
 thumbnail: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31"
 excerpt: "The AI narrative has decoupled from software and collided with physical baseload power. We examine why hyperscalers are transforming into nuclear utility providers to secure global computing dominance."
+redirect_from:
+  - /the-compute-deficit/
 ---
 
 In May 2026, the structural expansion of artificial intelligence has encountered a hard, physical ceiling. According to infrastructure reporting from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/), projected data center electricity consumption across the United States and Europe is on track to double from 2023 levels, threatening to overwhelm legacy baseload capacity. The primary bottleneck for deploying next-generation frontier models is no longer algorithmic innovation, coding talent, or silicon design. It is raw, verifiable, gigawatt-scale electrical power.
