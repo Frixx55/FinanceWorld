@@ -8,6 +8,8 @@ image: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
 feature-img: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
 thumbnail: "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg"
 excerpt: "Q-Day is no longer a theoretical threat. Discover why institutional finance is racing to deploy post-quantum encryption before classical systems crumble."
+redirect_from:
+  - /quantum-computing-wall-street-security/
 ---
 
 I was at an exclusive cybersecurity summit in London last month, entirely populated by Chief Information Security Officers (CISOs) from the world’s most systemic tier-one banks. Normally, these events are incredibly dry affairs, filled with corporate jargon and PowerPoint presentations about phishing scams. But the atmosphere at the hotel bar afterward was completely different. It was deeply, palpably anxious. 
