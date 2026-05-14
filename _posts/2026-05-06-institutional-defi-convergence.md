@@ -2,7 +2,7 @@
 layout: post
 title: "The Great Convergence of 2026: How Institutional Liquidity Is Quietly Rewiring DeFi Infrastructure"
 date: 2026-05-06 10:00:00 +0200
-category: "Markets"
+category: "DeFi"
 author: "The Macro Edge Editorial Team"
 image: "https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1200&auto=format&fit=crop"
 feature-img: "https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1200&auto=format&fit=crop"
