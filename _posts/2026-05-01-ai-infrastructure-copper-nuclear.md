@@ -8,6 +8,8 @@ image: "https://images.pexels.com/photos/257636/pexels-photo-257636.jpeg"
 feature-img: "https://images.pexels.com/photos/257636/pexels-photo-257636.jpeg"
 thumbnail: "https://images.pexels.com/photos/257636/pexels-photo-257636.jpeg"
 excerpt: "Artificial Intelligence isn't just about code—it's about the physical grid. Discover why industrial commodities are the true backbone of the 2026 tech boom."
+redirect_from:
+  - /ai-infrastructure-copper-nuclear/
 ---
 
 As the global economy advances through the mid-point of **2026**, a fundamental structural shift has materialized within the technology sector, challenging the long-held belief that the value of the digital revolution lies solely in the software layer. For nearly half a decade, investment flows were directed almost exclusively toward software-as-a-service (SaaS) providers, large language model (LLM) developers, and algorithmic startups. This era was defined by the assumption that "intelligence" was a weightless commodity, capable of infinite scaling through code alone, independent of physical constraints.
