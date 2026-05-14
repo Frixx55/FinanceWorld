@@ -4,9 +4,9 @@ title: "The Great Liquidity Reset: Why Institutional Capital is Abandoning Legac
 date: 2026-05-10 11:00:00 +0200
 category: "Markets"
 author: "The Macro Edge Editorial Team"
-image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
-feature-img: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
-thumbnail: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1200"
+feature-img: "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1200"
+thumbnail: "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=1200"
 excerpt: "The traditional 60/40 portfolio is mathematically dead. Inside the boardrooms of Wall Street, smart capital is quietly rotating out of sovereign debt and into raw compute power, tokenized assets, and absolute cryptographic scarcity."
 redirect_from:
   - /great-liquidity-reset-compute-scarcity/
