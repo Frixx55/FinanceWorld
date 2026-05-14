@@ -6,6 +6,8 @@ author: "The Macro Edge Editorial Team"
 category: "DeFi"
 image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg"
 excerpt: "The next wave of decentralized finance is leaving the tech hubs. Explore how borderless protocols are creating a global financial layer that operates beyond jurisdictions."
+redirect_from:
+  - /defi-shadow-banking-real-world-assets/
 ---
 
 My grandfather used to tell me that a good bank is like a good roof: you shouldn't even notice it's there until a storm hits. For decades, traditional banking felt like a necessary, immovable force of nature. You deposited your paycheck, accepted whatever miserable fraction of a percent they offered you in interest, and paid exorbitant fees the moment you needed to wire money across a border. We accepted it because there was no alternative. We were locked into a geographic lottery where your financial ceiling was determined by the zip code on your utility bill and the whims of a local loan officer.
