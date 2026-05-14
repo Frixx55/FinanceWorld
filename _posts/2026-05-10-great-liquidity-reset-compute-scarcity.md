@@ -8,6 +8,8 @@ image: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=
 feature-img: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
 thumbnail: "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1200"
 excerpt: "The traditional 60/40 portfolio is mathematically dead. Inside the boardrooms of Wall Street, smart capital is quietly rotating out of sovereign debt and into raw compute power, tokenized assets, and absolute cryptographic scarcity."
+redirect_from:
+  - /great-liquidity-reset-compute-scarcity/
 ---
 
 In May 2026, the global sovereign bond market is experiencing a historic structural drain. According to institutional flow data tracking Tier-1 asset managers, the classic 60/40 portfolio allocation has reached a definitive mathematical breaking point. With US Core Inflation printing persistently above central bank targets and global debt servicing costs escalating, institutional capital is systematically rotating out of government paper. The legacy safe haven has cracked, forcing smart capital to seek refuge outside the traditional fiat perimeter.
