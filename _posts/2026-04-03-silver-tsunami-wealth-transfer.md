@@ -7,6 +7,8 @@ image: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=
 feature-img: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1200"
 thumbnail: "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=1200"
 excerpt: "The greatest financial transition in history is here. As $80 trillion moves from Baby Boomers to Millennials, the very foundations of Wall Street are being dismantled."
+redirect_from:
+  - /silver-tsunami-wealth-transfer/
 ---
 
 I recently had dinner with a senior partner at one of the top wealth management firms in Boston. After a few glasses of wine, he leaned across the table and confessed his absolute, terrifying nightmare. He isn't worried about inflation. He isn't worried about the Federal Reserve, and he certainly isn't worried about a sudden stock market crash or the geopolitical tensions in the Pacific. 
