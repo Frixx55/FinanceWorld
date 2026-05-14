@@ -8,6 +8,8 @@ image: "https://images.unsplash.com/photo-1610552050890-fe99536c2615?q=80&w=1200
 feature-img: "https://images.unsplash.com/photo-1610552050890-fe99536c2615?q=80&w=1200&auto=format&fit=crop"
 thumbnail: "https://images.unsplash.com/photo-1610552050890-fe99536c2615?q=80&w=1200&auto=format&fit=crop"
 excerpt: "Sovereign debt models are mathematically broken. As the global bond market faces an unprecedented refinancing wall, central banks are quietly dumping fiat reserves to repatriate physical gold at record speeds."
+redirect_from:
+  - /sovereign-debt-gold/
 ---
 
 Let me be absolutely blunt: if you are still exclusively watching the 10-year U.S. Treasury yield to gauge global macroeconomic risk, you are staring at the wrong dashboard. While retail equity markets and mainstream financial media remain obsessively fixated on the latest corporate artificial intelligence earnings calls and quarterly guidance updates, a much quieter — and frankly, vastly more significant — structural rotation is executing directly beneath the surface of the global financial plumbing. 
