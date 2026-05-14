@@ -2,7 +2,7 @@
 layout: post
 title: "The Quiet Rollout of Digital Dollars: Why Financial Privacy Is Now a Premium Asset in 2026"
 date: 2026-04-27 10:00:00 +0200
-author: "CryptoEdge Pro Editorial Team"
+author: "The Macro Edge Editorial Team"
 category: "Crypto"
 image: "https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg"
 description: "Central Bank Digital Currencies have moved from pilot programs to active circulation. Discover why financial privacy has become the most valuable asset of 2026 and how to protect your wealth before it's too late."
