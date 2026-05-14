@@ -22,10 +22,6 @@ The primary misunderstanding surrounding dividends is the belief that they repre
 
 When a publicly traded company—whether a legacy utility or a modern energy conglomerate—pays a dividend, the share price is adjusted downward on the *ex-dividend date* by the exact amount of the payout. This is not a market fluctuation; it is a mathematical adjustment performed by the exchange to reflect that the company is now "less valuable" by the amount of cash it just sent to shareholders. As noted by [Investopedia's guide on Dividend Dates](https://www.investopedia.com/articles/02/110802.asp), the price drop is a structural requirement of the market.
 
-Mathematically, if a stock is trading at $P$ and pays a dividend $D$, the value of your position immediately post-payout is:
-
-$$V_{post} = (P - D) + D$$
-
 You have gained zero net value. You simply have less equity in the company and more cash in your brokerage account. However, while the $P - D$ portion remains unrealized (and untaxed), the $D$ portion is a **forced taxable event**. In 2026, where governments are aggressively hunting for revenue to service record-high sovereign debt, this "forced realization" is a strategic disaster for the long-term compounder.
 
 
@@ -36,13 +32,7 @@ The "Dividend Trap" is, at its core, a tax-efficiency crisis. In most jurisdicti
 
 According to the [OECD's latest report on Taxing Wages and Capital](https://www.oecd.org/tax/tax-policy/taxing-wages.htm), the effective tax rate on distributed profits has risen across the G20 as states seek to balance their post-pandemic ledgers. This "tax friction" acts as a recurring anchor on your portfolio.
 
-Consider the impact on long-term compounding. If we model the future value $A$ of a portfolio with an annual return $r$, an initial principal $P$, and a dividend tax rate $\tau$ over $n$ years:
-
-For a non-dividend paying stock where all returns are capital gains deferred until the end:
-$$A_{growth} = P(1+r)^n - [P(1+r)^n - P]\tau_{cg}$$
-
-For a high-dividend stock where the return is entirely paid out and reinvested:
-$$A_{dividend} = P[1 + r(1-\tau_d)]^n$$
+Consider the impact on long-term compounding. If we model the future value $A$ of a portfolio with an annual return $r$, an initial principal $P$, and a dividend tax rateb over "n" years:
 
 ### The Dividend Tax Drag (30-Year Projection)
 
