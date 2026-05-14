@@ -8,6 +8,8 @@ image: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
 feature-img: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
 thumbnail: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
 excerpt: "The romantic era of DeFi 'by the people' is dead. In 2026, the biggest whales in the pool are nation-states, and they are using decentralized protocols to fight a silent war for liquidity."
+redirect_from:
+  - /the-yield-war-sovereign-wealth-funds-defi/
 ---
 
 In May 2026, the composition of liquidity in major DeFi protocols has shifted dramatically. According to data from [DeFiLlama](https://defillama.com), Total Value Locked across Tier-1 protocols has surpassed $180 billion, with an increasing share attributable to institutional and state-affiliated entities. The cypherpunk dream of retail-driven DeFi has given way to a new reality: sovereign capital is now a dominant force in on-chain markets.
