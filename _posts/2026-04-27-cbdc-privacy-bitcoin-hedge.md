@@ -42,10 +42,6 @@ Surveillance is troubling enough. But **the true systemic risk of CBDCs lies in 
 
 Consider the mechanics of **Enforced Negative Interest Rates.** If inflation spikes or economic stimulus is required, a central bank deploying CBDCs no longer needs to wait for commercial banks to adjust deposit rates. They can programmatically implement a **decay rate** on your digital wallet — effectively deleting 1% of your savings balance every month to force consumer spending. 
 
-If $B_0$ is your initial balance, the future value of your money after time $t$ at a decay rate $r$ is expressed by the continuous decay formula:
-
-$$B(t) = B_0 e^{-rt}$$
-
 In this scenario, your wealth is not a static store of value; it is a melting ice cube. Traditional bank deposits act as a buffer against this; CBDC wallets do not. This is "money as a service," where the service provider (the State) can adjust the quantity of your holdings with a single line of code.
 
 ## Scenario Analysis: The End of Financial Neutrality
