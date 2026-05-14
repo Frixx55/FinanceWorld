@@ -26,17 +26,6 @@ The **Autonomous Agents** of 2026 are proactive. They operate on an "Observe-Ori
 
 While the legacy algorithmic trading bots of the 2010s were rigid and rule-based (using simple "If-Then" logic), modern agents possess **Semantic Reasoning**. They don't just see a "data point"; they understand the nuance of human language, the subtext of a central bank governor's speech, and the cascading secondary effects of a geopolitical shift.
 
-### The Math of the Advantage
-
-Modern agents calculate risk-adjusted returns using complex multi-variate analysis that exceeds human cognitive capacity. For instance, an agent evaluating a portfolio's Value at Risk (VaR) doesn't just look at historical volatility; it solves for:
-
-$$VaR_{\alpha} = \inf \{ l \in \mathbb{R} : P(L > l) \leq 1 - \alpha \}$$
-
-In a world where $\alpha$ represents a confidence level that must be adjusted across thousands of asset classes in real-time, the human brain is simply too slow. An agent can calculate the covariance of a 5,000-asset portfolio while simultaneously reading the live transcript of a Fed meeting, adjusting the weights $w_i$ to minimize the variance $\sigma_p^2$:
-
-$$\sigma_p^2 = \sum_{i=1}^{n} w_i^2 \sigma_i^2 + \sum_{i=1}^{n} \sum_{j \neq i}^{n} w_i w_j \sigma_i \sigma_j \rho_{ij}$$
-
-All of this happens in the time it takes a human to blink.
 
 ## The Quarter-Second Case Study: The South American Copper Strike
 
