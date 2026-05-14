@@ -6,6 +6,8 @@ author: "The Macro Edge Editorial Team"
 category: "Investing"
 image: "https://images.pexels.com/photos/5412270/pexels-photo-5412270.jpeg"
 excerpt: "The traditional 60/40 portfolio has undergone a structural transformation. Discover why private credit is absorbing the world's savings in the high-inflation environment of 2026."
+redirect_from:
+  - /private-credit-death-of-traditional-bonds/
 ---
 
 The global financial architecture of **2026** is currently undergoing its most significant structural realignment since the 2008 financial crisis. While mainstream financial media remains focused on equity market volatility and central bank pivots, a trillion-dollar migration is happening beneath the surface. The traditional safe haven of the public bond market is being systematically dismantled as institutional and retail capital flows toward a new primary destination: **Private Credit**.
