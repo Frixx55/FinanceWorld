@@ -102,6 +102,3 @@ If your entire financial life exists within systems that can be **programmed, re
 
 The digital dollar is here. The question is whether you're going to be entirely dependent on it — or whether you're going to keep some of your wealth beyond its reach.
 
----
-
-*Disclaimer: This article is for informational and educational purposes only and does not constitute financial or investment advice. Always conduct your own research and consult a qualified financial professional before making investment decisions.*
