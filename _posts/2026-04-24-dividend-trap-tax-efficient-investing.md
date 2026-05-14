@@ -14,7 +14,7 @@ I recently analyzed a portfolio for a client who had spent the last twenty-four 
 
 In the high-inflation, high-tax environment of the mid-2020s, "Yield Chasing" has become one of the most dangerous forms of capital misallocation. This article dismantles the dividend mirage and provides a professional framework for **Tax-Efficient Wealth Accrual**.
 
----
+
 
 ## 1. The Mechanics of Capital Erosion: A Zero-Sum Equation
 
@@ -28,7 +28,7 @@ $$V_{post} = (P - D) + D$$
 
 You have gained zero net value. You simply have less equity in the company and more cash in your brokerage account. However, while the $P - D$ portion remains unrealized (and untaxed), the $D$ portion is a **forced taxable event**. In 2026, where governments are aggressively hunting for revenue to service record-high sovereign debt, this "forced realization" is a strategic disaster for the long-term compounder.
 
----
+
 
 ## 2. The Tax Leakage: Quantifying the Compound Interest Killer
 
@@ -54,7 +54,7 @@ $$A_{dividend} = P[1 + r(1-\tau_d)]^n$$
 
 *Assumes a $100,000 initial investment. The "Wealth Leak" represents capital that was simply handed to the state rather than being allowed to compound.*
 
----
+
 
 ## 3. Share Buybacks: The Institutional Preference of the 2020s
 
@@ -70,7 +70,7 @@ When a company buys back its own shares:
 
 This is the ultimate form of **Financial Sovereignty**. You only pay tax when *you* choose to sell, allowing you to control your tax bracket, utilize tax-loss harvesting, and time your realizations based on your personal life stages rather than a corporate board's schedule.
 
----
+
 
 ## 4. The "Total Return" Framework vs. The "Income" Myth
 
@@ -86,7 +86,7 @@ In 2026, it is almost always more tax-efficient to hold a high-growth, low-divid
 *   **Dividends:** You pay tax on **100%** of the distribution.
 *   **Selling Shares:** You only pay tax on the **gain portion** of the sale. As explained in the [IRS guide on Capital Gains](https://www.irs.gov/taxtopics/tc409), your cost basis is returned to you tax-free.
 
----
+
 
 ## 5. The Psychology of the Trap: Why Humans Crave Yield
 
@@ -94,7 +94,7 @@ Behavioral finance suggests that we prefer dividends because they protect us fro
 
 This creates a **Value Trap**. Companies that cannot find productive ways to reinvest their cash (into R&D, new markets, or automation) resort to dividends to keep their stock price afloat. By chasing that yield, you are effectively investing in the least innovative sectors of the economy.
 
----
+
 
 ## 6. The Macro Context: Inflation and Interest Rate Sensitivity
 
@@ -104,7 +104,7 @@ When interest rates remain elevated to combat "sticky" inflation, these stocks a
 
 Conversely, **Capital Compounders** possess **Pricing Power**. They can increase their margins faster than inflation, all while shielding the investor from the annual "tax friction" that destroys long-term wealth. According to the [OECD Economic Outlook](https://www.oecd.org/economic-outlook/), companies with high R&D-to-revenue ratios are far better positioned to handle the inflationary pressures of the mid-2020s.
 
----
+
 
 ## 7. Identifying the "Dividend Trap" Red Flags
 
@@ -114,7 +114,6 @@ How do you identify a company that is destroying your value through dividends? L
 2.  **Yield > 200% of Industry Average:** An abnormally high yield is the market's way of saying "this dividend is about to be cut."
 3.  **Negative Real Growth:** If the dividend growth rate is lower than the CPI (Consumer Price Index), your "passive income" is losing purchasing power.
 
----
 
 ## Summary: Re-wiring for Tax Alpha
 
