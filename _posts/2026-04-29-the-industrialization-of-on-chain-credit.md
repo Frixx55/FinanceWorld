@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Industrialization of On-Chain Credit: How Real-World Assets are Replacing Legacy Banking Plumbing in 2026"
-date: 2026-05-14 10:00:00 +0200
+date: 2026-04-29 10:00:00 +0200
 author: "The Macro Edge Editorial Team"
 category: "DeFi"
 image: "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg"
