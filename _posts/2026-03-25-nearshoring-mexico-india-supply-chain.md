@@ -5,6 +5,8 @@ author: "The Macro Edge Editorial Team"
 category: "Markets"
 image: "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1200"
 excerpt: "The era of hyper-optimized, single-point-of-failure manufacturing is over. Discover why Mexico's industrial explosion is the defining macroeconomic shift of 2026."
+redirect_from:
+  - /nearshoring-mexico-india-supply-chain/
 ---
 
 As we navigate the economic landscape of **2026**, the global industrial map is undergoing its most radical transformation since the end of the Cold War. For four decades, the global economy operated under a singular, dominant logic: the centralization of manufacturing in East Asia, specifically China, to leverage absolute cost advantages and "just-in-time" logistics. This model, which fueled the rise of the Chinese middle class and provided cheap consumer goods to the West, has officially reached its structural limits.
